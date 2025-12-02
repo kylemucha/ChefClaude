@@ -2,6 +2,11 @@
 
 An interactive Web Application that takes a user's input, a list of available ingredients, and generates a suggested recipe based on those ingredients. Utilizing the Claude API to be able to generate a suggested recipe through Artificial Intelligence (AI).
 
+<img width="3024" height="1346" alt="image" src="https://github.com/user-attachments/assets/69e6bb8b-8869-4dd9-8c24-d955e5abf812" />
+<img width="3024" height="1682" alt="image" src="https://github.com/user-attachments/assets/f405a4b9-0c8a-44c1-a998-10803360a5d2" />
+<img width="3024" height="1690" alt="image" src="https://github.com/user-attachments/assets/e0d6359c-f4e4-47b3-a35a-cf358fe1aeb3" />
+
+
 
 # Lessons
 
