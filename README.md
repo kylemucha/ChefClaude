@@ -1,16 +1,18 @@
-# React + Vite
+# Chef Claude
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive Web Application that takes a user's input, a list of available ingredients, and generates a suggested recipe based on those ingredients. Utilizing the Claude API to be able to generate a suggested recipe through Artificial Intelligence (AI).
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Lessons
 
-## React Compiler
+## Why Reusability is important
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Reusability is important because it is more common to have reusable components that are driven by data than having lots of hardcoded data displayed on a screen. It makes more sense for scalability and to plan for future development and data.
 
-## Expanding the ESLint configuration
+## Props
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Props are a great way to be able to build these React components and use them dynamically and reuse components when needed through the use of data.
+
+## Create Componenets from an Array of Data
+
+I was able to get hands-on experience with handling data and being able to create components that will display that data using props in React. Although I was using a file with all the data being handled in the project, I learned that this job would more often be used by calling in data from an API.
