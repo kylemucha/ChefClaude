@@ -8,16 +8,19 @@ An interactive Web Application that takes a user's input, a list of available in
 
 
 
-# Lessons
+# React Concepts Learned
 
-## Why Reusability is important
+## Event Handlers
+I learned the fundamentals of adding interactivity to a webpage using event handlers such as onClick and alert(). I also gained experience passing event handler functions down through props so they can be reused and triggered across different components in a React project.
 
-Reusability is important because it is more common to have reusable components that are driven by data than having lots of hardcoded data displayed on a screen. It makes more sense for scalability and to plan for future development and data.
+## React State
+I learned how React’s State system lets components track and preserve data between re-renders. I also now understand how updating state triggers React to re-render the UI so the user always sees the most current version of the interface.
 
-## Props
+## Conditional Rendering
+I practiced rendering components conditionally based on state values or incoming props. This allows an application’s UI to update dynamically and display different layouts, messages, or components depending on the current situation.
 
-Props are a great way to be able to build these React components and use them dynamically and reuse components when needed through the use of data.
+## Forms
+I learned how to use forms to collect information from users and handle their input. This data can then be used for any purpose—whether that’s saving it to a database or, in the case of my project, generating a list of ingredients to pass into the recipe functionality.
 
-## Create Componenets from an Array of Data
-
-I was able to get hands-on experience with handling data and being able to create components that will display that data using props in React. Although I was using a file with all the data being handled in the project, I learned that this job would more often be used by calling in data from an API.
+## State Management Strategies
+I learned about different approaches to structuring state within a React application. This included understanding the trade-offs between keeping state in parent components, lifting state up, keeping state local to child components, and passing data through props to maintain clear, efficient data flow.
