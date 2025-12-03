@@ -11,7 +11,7 @@ An interactive Web Application that takes a user's input, a list of available in
 # React Concepts Learned
 
 - Event Handlers
-  - I learned the fundamentals of adding interactivity to a webpage using event handlers such as onClick and alert(). I also gained experience passing event handler functions down through props so they can be reused and triggered across different components in a React project.
+  - I learned the fundamentals of adding interactivity to a webpage using event handlers such as onClick and alert. I also gained experience passing event handler functions down through props so they can be reused and triggered across different components in a React project.
 
 - React State
   - I learned how React’s State system lets components track and preserve data between re-renders. I also now understand how updating state triggers React to re-render the UI so the user always sees the most current version of the interface.
