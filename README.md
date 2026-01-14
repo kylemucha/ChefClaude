@@ -1,4 +1,4 @@
-# Chef Claude
+# Chef Claude 👨‍🍳
 
 An interactive Web Application that takes a user's input, a list of available ingredients, and generates a suggested recipe based on those ingredients. Utilizing the Claude API to be able to generate a suggested recipe through Artificial Intelligence (AI).
 
